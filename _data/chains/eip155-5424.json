@@ -3,8 +3,7 @@
   "chain": "edeXa Network",
   "rpc": [
     "https://mainnet.edexa.network/rpc",
-    "https://mainnet.edexa.com/rpc",
-    "https://io-dataseed1.mainnet.edexa.io-market.com/rpc"
+    "https://mainnet.edexa.com/rpc"
   ],
   "faucets": [],
   "features": [
